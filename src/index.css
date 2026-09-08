@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f3ecd9;
+  --ink: #1a1814;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+}
